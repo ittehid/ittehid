@@ -3,6 +3,9 @@
 </div>
 <div id="header" align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ittehid&style=flat-square&color=blue" alt=""/>
+  <a href="https://tehadm.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-tehadm.ru-blue" alt="Visit tehadm.ru">
+  </a>
 </div>
 
 
