@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!-- Title -->
 <h1 align="center" title="...and I'm glad to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Alexandr Gedz</h1>
 
